@@ -1,0 +1,66 @@
+{
+  "msg": "请求成功",
+  "value": {
+    "menu": [
+      {
+        "cnName": "配置管理",
+        "enName": "",
+        "code": "CONFIG_MANAGE",
+        "pCode": "0",
+        "url": "/configmanage",
+        "children": [
+          {
+            "cnName": "集群配对",
+            "enName": "",
+            "code": "CLUSTER_MATCH",
+            "pCode": "CONFIG_MANAGE",
+            "url": "/configmanage/cluster-match",
+            "children": []
+          },
+          {
+            "cnName": "应用配置",
+            "enName": "",
+            "code": "APP_CONFIG",
+            "pCode": "CONFIG_MANAGE",
+            "url": "/configmanage/app-config",
+            "children": []
+          },
+          {
+            "cnName": "能力部署",
+            "enName": "",
+            "code": "CAPACITY_DEPLOY",
+            "pCode": "CONFIG_MANAGE",
+            "url": "/configmanage/capacity-deploy",
+            "children": []
+          },
+          {
+            "cnName": "服务运行状态",
+            "enName": "",
+            "code": "RUNNING_STATE",
+            "pCode": "CONFIG_MANAGE",
+            "url": "/configmanage/running-state",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "func": {
+      "/configmanage/app-config": [
+        "upgrade",
+        "deploy",
+        "edit",
+        "add",
+        "dependency",
+        "delete"
+      ],
+      "/configmanage/capacity-deploy": [
+        "graydeploy"
+      ],
+      "/configmanage/cluster-match": [
+        "add"
+      ]
+    },
+    "displayName": "铁血阿江"
+  },
+  "success": true
+}

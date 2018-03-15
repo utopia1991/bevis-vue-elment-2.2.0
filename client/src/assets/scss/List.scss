@@ -1,0 +1,44 @@
+@import './Base.scss';
+
+.box {
+  .ec-table {
+    display: block;
+  }
+
+  .link-type {
+    cursor: pointer;
+    color: $color-blue;
+  }
+
+  .search {
+    margin-bottom: 20px;
+    border-bottom: 1px solid $default-border;
+
+    .el-form-item {
+      margin: 0 15px 20px 0;
+
+      .search-label {
+        display: inline-block;
+        margin: 0 20px 0 0 ;
+        text-align: right;
+      }
+
+      .el-input,
+      .el-select {
+        width: auto;
+      }
+
+      .date-picker {
+        width: 320px;
+      }
+    }
+  }
+
+  .tools {
+    margin-bottom: 20px;
+  }
+
+  .pagination {
+    padding: 10px;
+  }
+}

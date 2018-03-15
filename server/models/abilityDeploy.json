@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "value": {
+        "totalCount": 12,
+        "rows": [
+            {
+                "id": "aaaa",
+                "deployTime": "aaaa",
+                "application": "aaaa",
+                "software": "aaaa",
+                "canUpdateTime": "aaaa",
+                "deployRange": "aaaa",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "bbbb",
+                "application": "bbbb",
+                "software": "bbbb",
+                "canUpdateTime": "bbbb",
+                "deployRange": "bbbb",
+                "deployRangeCount": 213,
+                "status": "all"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "aaaa",
+                "application": "aaaa",
+                "software": "aaaa",
+                "canUpdateTime": "aaaa",
+                "deployRange": "aaaa",
+                "deployRangeCount": 213,
+                "status": "cancel"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "bbbb",
+                "application": "bbbb",
+                "software": "bbbb",
+                "canUpdateTime": "bbbb",
+                "deployRange": "bbbb",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "aaaa",
+                "application": "aaaa",
+                "software": "aaaa",
+                "canUpdateTime": "aaaa",
+                "deployRange": "aaaa",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "bbbb",
+                "application": "bbbb",
+                "software": "bbbb",
+                "canUpdateTime": "bbbb",
+                "deployRange": "bbbb",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "aaaa",
+                "application": "aaaa",
+                "software": "aaaa",
+                "canUpdateTime": "aaaa",
+                "deployRange": "aaaa",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "bbbb",
+                "application": "bbbb",
+                "software": "bbbb",
+                "canUpdateTime": "bbbb",
+                "deployRange": "bbbb",
+                "deployRangeCount": 213,
+                "status": "all"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "aaaa",
+                "application": "aaaa",
+                "software": "aaaa",
+                "canUpdateTime": "aaaa",
+                "deployRange": "aaaa",
+                "deployRangeCount": 213,
+                "status": "effected"
+            },
+            {
+                "id": "aaaa",
+                "deployTime": "bbbb",
+                "application": "bbbb",
+                "software": "bbbb",
+                "canUpdateTime": "bbbb",
+                "deployRange": "bbbb",
+                "deployRangeCount": 213,
+                "status": "cancel"
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+@import './Base.scss';
+@import './Icon.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
+
+.clearfix {
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+}
+
+#app {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.box {
+  padding: 20px;
+}
+
+.btn-cancel-right {
+  float: right;
+  margin-left: 14px;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.2s ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
+}
+
+// 覆盖 nprogress 样式
+#nprogress .bar {
+  background: #f6bb42;
+}
+
+// 覆盖 element-ui 样式
+.el-menu-item {
+  border-bottom: 1px solid $color-border;
+  color: $color-white !important;
+  
+  &:hover {
+    background-color: $color-blue;
+  }
+}
+
+.el-submenu__title {
+  border-bottom: 1px solid $color-border;
+  color: $color-white !important;
+
+  &:hover {
+    background-color: $color-blue !important;
+  }
+}
+
+.el-menu {
+  .menu-items {
+    color: $color-white !important;
+  }
+
+  i {
+    color: $color-white;
+    font-size: 16px;
+  }
+}
+
+.el-table td,
+.el-table th {
+  padding: 8px 0;
+}
+
+.el-button {
+  padding: 8px 10px;
+}
+
+.el-form-item__content {
+  line-height: 34px;
+}
+
+.el-input__inner {
+  height: 34px;
+}
+
+.el-range-editor.el-input__inner {
+  padding: 1px 10px;
+}

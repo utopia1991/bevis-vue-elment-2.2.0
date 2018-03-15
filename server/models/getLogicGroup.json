@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "value": {
+        "totalCount": 12,
+        "rows": [
+            {
+                "id": "1",
+                "logicGroup": "组1",
+                "vmp": "集群1"
+            },
+            {
+                "id": "2",
+                "logicGroup": "组2",
+                "vmp": "集群2"
+            },
+            {
+                "id": "3",
+                "logicGroup": "组3",
+                "vmp": "集群3"
+            },
+            {
+                "id": "4",
+                "logicGroup": "组1",
+                "vmp": "集群1"
+            },
+            {
+                "id": "5",
+                "logicGroup": "组2",
+                "vmp": "集群2"
+            },
+            {
+                "id": "6",
+                "logicGroup": "组3",
+                "vmp": "集群3"
+            },
+            {
+                "id": "7",
+                "logicGroup": "组1",
+                "vmp": "集群1"
+            },
+            {
+                "id": "8",
+                "logicGroup": "组2",
+                "vmp": "集群2"
+            },
+            {
+                "id": "9",
+                "logicGroup": "组3",
+                "vmp": "集群3"
+            },
+            {
+                "id": "10",
+                "logicGroup": "组1",
+                "vmp": "集群1"
+            },
+            {
+                "id": "11",
+                "logicGroup": "组2",
+                "vmp": "集群2"
+            },
+            {
+                "id": "12",
+                "logicGroup": "组3",
+                "vmp": "集群3"
+            }
+        ]
+    }
+}

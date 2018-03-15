@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "value": {
+        "totalCount": 12,
+        "rows": [
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "deployed"
+            },
+            {
+                "id": "aaaa",
+                "logicGroup": "aaaa",
+                "status": "noDepoly"
+            }
+        ]
+    }
+}

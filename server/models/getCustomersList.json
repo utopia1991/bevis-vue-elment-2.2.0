@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "value": {
+        "totalCount": 12,
+        "rows": [
+            {
+                "id": "1",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "2"
+            },
+            {
+                "id": "2",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "1"
+            },
+            {
+                "id": "3",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "3"
+            },
+            {
+                "id": "4",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "2"
+            },
+            {
+                "id": "5",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "1"
+            },
+            {
+                "id": "6",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "3"
+            },
+            {
+                "id": "7",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "2"
+            },
+            {
+                "id": "8",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "2"
+            },
+            {
+                "id": "9",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "null"
+            },
+            {
+                "id": "10",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "3"
+            },
+            {
+                "id": "11",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "1"
+            },
+            {
+                "id": "12",
+                "cnName": "aaaa",
+                "enName": "bbbb",
+                "company": "cccc",
+                "vip": "2"
+            }
+        ]
+    }
+}
